@@ -8,3 +8,5 @@ This is a vignette on building a Bayesian neural network for classifying diabete
 - Sou Hamura
 - Lucas Canez
 - Felix Ngo
+
+happy thanksgiving
